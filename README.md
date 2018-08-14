@@ -1,4 +1,4 @@
 # devops-aula02
-# akon
+# Aliaune Damala Badara Thiam
 # hungria
 # gustavo
