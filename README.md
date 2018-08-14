@@ -1,4 +1,4 @@
 # devops-aula02
-akon
-hungria
-gustavo
+# akon
+# hungria
+# gustavo
