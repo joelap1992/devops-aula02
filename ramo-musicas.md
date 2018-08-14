@@ -1,3 +1,0 @@
-# sem rótulo
-# Imprevisivel
-# Quintal
